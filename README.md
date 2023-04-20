@@ -1,4 +1,4 @@
-# time_series_analyse
+# time_series_analysics
 - adf Test
 - Granger Test
 - transfer entropy
